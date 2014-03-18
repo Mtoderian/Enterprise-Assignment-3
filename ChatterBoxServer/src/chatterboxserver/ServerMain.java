@@ -16,6 +16,7 @@ import logger.MailHandler;
 import webadmin.WebServer;
 
 /**
+ * test
  * Main class of server
  */
 public class ServerMain implements Runnable {
