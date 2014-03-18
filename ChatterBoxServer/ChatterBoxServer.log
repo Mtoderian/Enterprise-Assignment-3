@@ -1,0 +1,87 @@
+nov 04, 2012 5:17:39 PM chatterboxserver.ServerMain main
+WARNING: Logger for the Server App is ACTIVE
+nov 04, 2012 5:17:49 PM webadmin.Connection run
+INFO: Error executing action.
+java.lang.IllegalArgumentException
+	at java.util.concurrent.ThreadPoolExecutor.setMaximumPoolSize(ThreadPoolExecutor.java:1632)
+	at chatterboxserver.ServerMain.setNThreads(ServerMain.java:79)
+	at webadmin.Connection.doAction(Connection.java:99)
+	at webadmin.Connection.run(Connection.java:54)
+	at java.lang.Thread.run(Thread.java:722)
+
+nov 04, 2012 5:17:54 PM webadmin.Connection run
+INFO: Error executing action.
+java.lang.NullPointerException
+	at webadmin.Connection.doAction(Connection.java:98)
+	at webadmin.Connection.run(Connection.java:54)
+	at java.lang.Thread.run(Thread.java:722)
+
+nov 04, 2012 5:17:54 PM webadmin.Connection run
+INFO: Error executing action.
+java.lang.NullPointerException
+	at webadmin.Connection.doAction(Connection.java:98)
+	at webadmin.Connection.run(Connection.java:54)
+	at java.lang.Thread.run(Thread.java:722)
+
+nov 04, 2012 5:20:36 PM chatterboxserver.ServerMain main
+WARNING: Logger for the Server App is ACTIVE
+nov 04, 2012 5:20:39 PM webadmin.Connection run
+INFO: Error executing action.
+java.lang.NullPointerException
+	at webadmin.Connection.doAction(Connection.java:98)
+	at webadmin.Connection.run(Connection.java:54)
+	at java.lang.Thread.run(Thread.java:722)
+
+nov 04, 2012 5:21:55 PM chatterboxserver.ServerMain main
+WARNING: Logger for the Server App is ACTIVE
+nov 04, 2012 5:22:34 PM webadmin.Connection run
+INFO: Error executing action.
+java.lang.NullPointerException
+	at webadmin.Connection.doAction(Connection.java:98)
+	at webadmin.Connection.run(Connection.java:54)
+	at java.lang.Thread.run(Thread.java:722)
+
+nov 04, 2012 5:25:17 PM chatterboxserver.ServerMain main
+WARNING: Logger for the Server App is ACTIVE
+nov 04, 2012 5:25:23 PM chatterboxserver.ServerMain main
+INFO: User connected
+nov 04, 2012 5:25:39 PM chatterboxserver.ServerMain main
+INFO: User connected
+nov 04, 2012 5:26:28 PM io.ConnectionProcessor run
+INFO: User disconnected: java.net.SocketException: Connection reset
+nov 04, 2012 5:26:29 PM io.ConnectionProcessor run
+INFO: User disconnected: java.net.SocketException: Connection reset
+nov 04, 2012 5:48:30 PM chatterboxserver.ServerMain main
+SEVERE: Logger for the Server App is ACTIVE
+nov 04, 2012 5:50:45 PM chatterboxserver.ServerMain main
+INFO: Logger for the Server App is ACTIVE
+nov 04, 2012 7:24:22 PM chatterboxserver.ServerMain main
+INFO: Logger for the Server App is ACTIVE
+nov 04, 2012 7:28:58 PM chatterboxserver.ServerMain main
+INFO: Logger for the Server App is ACTIVE
+nov 04, 2012 7:32:05 PM chatterboxserver.ServerMain main
+INFO: Logger for the Server App is ACTIVE
+nov 04, 2012 7:32:14 PM chatterboxserver.ServerMain main
+INFO: Logger for the Server App is ACTIVE
+nov 04, 2012 7:32:22 PM chatterboxserver.ServerMain main
+INFO: User connected
+nov 04, 2012 7:32:33 PM chatterboxserver.ServerMain main
+INFO: User connected
+nov 04, 2012 7:33:13 PM io.ConnectionProcessor run
+INFO: User disconnected: java.net.SocketException: Connection reset
+nov 04, 2012 7:33:15 PM io.ConnectionProcessor run
+INFO: User disconnected: java.net.SocketException: Connection reset
+nov 04, 2012 7:33:27 PM chatterboxserver.ServerMain main
+INFO: Logger for the Server App is ACTIVE
+Nov 06, 2012 9:42:28 AM chatterboxserver.ServerMain main
+INFO: Logger for the Server App is ACTIVE
+Nov 06, 2012 9:47:15 AM chatterboxserver.ServerMain main
+INFO: Logger for the Server App is ACTIVE
+Nov 06, 2012 9:47:41 AM chatterboxserver.ServerMain main
+INFO: User connected
+Nov 06, 2012 9:48:12 AM chatterboxserver.ServerMain main
+INFO: User connected
+Nov 06, 2012 9:48:41 AM io.ConnectionProcessor run
+INFO: User disconnected: java.net.SocketException: Connection reset
+Nov 06, 2012 9:48:44 AM io.ConnectionProcessor run
+INFO: User disconnected: java.net.SocketException: Connection reset
